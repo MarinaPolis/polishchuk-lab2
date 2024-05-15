@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Унікальний стиль',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/firstPhoto.jpg').default,
     description: (
       <>
         Стиль поєднує класичні техніки з сучасними тенденціями, створюючи неповторні зображення
