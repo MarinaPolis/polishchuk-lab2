@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Мистецтво через об’єктив',
+  title: 'Мистецтво і об’єктив',
   tagline: 'Кожен кадр - історія, кожна фотографія - емоція',
   favicon: 'img/favicon.ico',
 
